@@ -45,7 +45,7 @@
 
 ## Bugs and Feature Requests
 
-[**Please do requests here.**](https://github.com/alsrud9909/perona/issues)
+[**Please do requests here.**](https://github.com/alsrud9909/persona/issues)
 
 
 ## About the Contributor
