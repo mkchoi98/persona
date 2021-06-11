@@ -53,7 +53,7 @@
 - <yeonns2@gmail.com>
 
 **Ahn Jisong**
-- [**@JungyeonAhn**](https://github.com/zIxxong2)
+- [**@zIxxong2**](https://github.com/zIxxong2)
 - <dkswlthd98@gmail.com>
 
 **Choi MinKyeong**
