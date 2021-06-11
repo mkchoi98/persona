@@ -48,7 +48,7 @@
 [**Please do requests here.**](https://github.com/alsrud9909/persona/issues)
 
 
-## About the Contributor
+## About the Contributors
 
 **Ahn Jungyeon**
 - [**@JungyeonAhn**](https://github.com/JungyeonAhn)
