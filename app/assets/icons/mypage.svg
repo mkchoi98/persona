@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25">
+  <g id="그룹_295" data-name="그룹 295" transform="translate(-1685 -1316)">
+    <g id="타원_21" data-name="타원 21" transform="translate(1691 1316)" fill="none" stroke="#9297ff" stroke-width="1.5">
+      <ellipse cx="6" cy="5.5" rx="6" ry="5.5" stroke="none"/>
+      <ellipse cx="6" cy="5.5" rx="5.25" ry="4.75" fill="none"/>
+    </g>
+    <g id="사각형_89" data-name="사각형 89" transform="translate(1685 1330)" fill="none" stroke="#9297ff" stroke-width="1.5">
+      <rect width="24" height="11" rx="5.5" stroke="none"/>
+      <rect x="0.75" y="0.75" width="22.5" height="9.5" rx="4.75" fill="none"/>
+    </g>
+  </g>
+</svg>
