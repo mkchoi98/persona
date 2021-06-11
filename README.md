@@ -36,7 +36,7 @@
 - Dart, Python
 
 ### AI
-- python v3.6.9, opencv v3.4.2, pytorch
+- python v3.6.9, opencv v3.4.2, pytorch, Dlib, haar cascade
 
 ## Demo
 
