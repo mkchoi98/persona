@@ -16,7 +16,7 @@
 - [Project Development Environment and Language](#Project-Development-Environment-and-Language)
 - [Demo](#Demo)
 - [Bugs and Feature Requests](#Bugs-and-Feature-Requests)
-- [About the Contributor](#About-the-Contributor)
+- [About the Contributors](#About-the-Contributors)
 
 
 ## Project Introduction
