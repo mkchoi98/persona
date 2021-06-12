@@ -7,7 +7,7 @@ from os import system
 
 print('Initializing Firestore connection...')
 # Credentials and Firebase App initialization. Always required
-firCredentials = credentials.Certificate('persona-d1ed9-firebase-adminsdk-pyf6e-951437f2bf.json')
+firCredentials = credentials.Certificate('')
 firApp = firebase_admin.initialize_app (firCredentials)
 
 # Get access to Firestore
