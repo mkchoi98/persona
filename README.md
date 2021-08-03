@@ -41,9 +41,9 @@
 ### AI
 - python v3.6.9, opencv v3.4.2, pytorch v1.8.1+cu101, Dlib, haar cascade
 
-## Demo
+## Presentation
 
-[Demo link](https://youtu.be/6P22nLsFLqE)
+[video link](https://www.youtube.com/watch?v=j9_1xhyJeKQ&t=304s)
 
 
 ## Bugs and Feature Requests
