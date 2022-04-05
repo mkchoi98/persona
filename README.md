@@ -63,7 +63,7 @@
 
 **Choi MinKyeong**
 - [**@alsrud9909**](https://github.com/alsrud9909)   
-- <mkchoe@sju.ac.kr>
+- <mkchoi@sju.ac.kr>
 
 **Kim KaYeong**
 - [**@kayeongkim1**](https://github.com/kayeongkim1)
