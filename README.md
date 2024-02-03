@@ -62,7 +62,7 @@
 - <dkswlthd98@gmail.com>
 
 **Choi MinKyeong**
-- [**@mkchoi98**](https://github.com/Choi-Minkyeong)   
+- [**@mkchoi98**](https://github.com/mkchoi98)   
 - <mkchoi@sju.ac.kr>
 
 **Kim KaYeong**
